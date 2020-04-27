@@ -1,0 +1,54 @@
+ h1 {
+color:red;
+text-align: center;
+ }
+ h2{
+     color: green;
+     text-align: left;
+ }
+ p{
+     color: blue;
+ }
+ #borderstyle{
+     background-color: #a38e92;
+     width: 20%;
+     height: 300px;
+     margin: 10px;
+     padding: 10px;
+     color: #f54263;
+
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 30px;
+     font-weight: bold;
+
+     border: 3px solid black;
+
+     
+ }
+ table {
+     border: 2px solid black;
+     border-collapse: collapse;
+     width: 30%;
+ }
+ th, td {
+     border: 1px solid black;
+     text-align: center;
+     padding: 5px;
+ }
+ th{
+     color: blue;
+     background-color: gray;
+ }
+ #top{
+     font-size: 35px;
+ }
+ #middle{
+     font-size: 24px;
+ }
+ #bottom{
+     font-size: 14px;
+ }
+ .Type1{
+     font-weight: bold;
+     color: green;
+ }
